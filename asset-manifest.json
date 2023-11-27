@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/blinh-exhibition/static/css/main.f4d86d0f.css",
+    "main.css": "/blinh-exhibition/static/css/main.dc0048a0.css",
     "main.js": "/blinh-exhibition/static/js/main.e1f2c525.js",
     "static/js/787.ff2bb2f4.chunk.js": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js",
     "static/media/video1.mp4": "/blinh-exhibition/static/media/video1.3c7381c033b3a8a410c3.mp4",
@@ -53,12 +53,12 @@
     "static/media/08.jpg": "/blinh-exhibition/static/media/08.db50ed8b9bc811b5a913.jpg",
     "static/media/28.jpg": "/blinh-exhibition/static/media/28.351a5bb59be41e3f0c5e.jpg",
     "index.html": "/blinh-exhibition/index.html",
-    "main.f4d86d0f.css.map": "/blinh-exhibition/static/css/main.f4d86d0f.css.map",
+    "main.dc0048a0.css.map": "/blinh-exhibition/static/css/main.dc0048a0.css.map",
     "main.e1f2c525.js.map": "/blinh-exhibition/static/js/main.e1f2c525.js.map",
     "787.ff2bb2f4.chunk.js.map": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4d86d0f.css",
+    "static/css/main.dc0048a0.css",
     "static/js/main.e1f2c525.js"
   ]
 }
