@@ -105,7 +105,13 @@ const App = (props) => {
         <div className="video-container">
           <p className="subtitle subtitle-video">Some short videos I've done</p>
           <div className="wrap-video video1">
-            <video className="video" controls currentTime={11.3} src={video1} />
+            <iframe
+              className="video"
+              src="https://drive.google.com/file/d/16s2J-DXfmJo-LQP1VDq-OCsIXjmOcgWh/preview"
+              width="640"
+              height="480"
+              allow="fullscreen"
+            ></iframe>
             <div>
               <p>Fanmade Music Video (FMV) - LUNA - TÙNG</p>
             </div>
