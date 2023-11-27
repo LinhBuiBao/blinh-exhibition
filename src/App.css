@@ -373,6 +373,11 @@ body {
 }
 
 .images {
+  @media screen and (min-width: 768px) {
+    columns: 2;
+    column-gap: 25px;
+  }
+
   @media screen and (min-width: 1200px) {
     columns: 3;
     column-gap: 25px;
