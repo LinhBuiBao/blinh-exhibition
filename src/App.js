@@ -106,7 +106,6 @@ const App = (props) => {
           <p className="subtitle subtitle-video">Some short videos I've done</p>
           <div className="wrap-video video1">
             <video className="video" controls currentTime={11.3} src={video1} />
-
             <div>
               <p>Fanmade Music Video (FMV) - LUNA - TÙNG</p>
             </div>
