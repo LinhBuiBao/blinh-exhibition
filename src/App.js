@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import ModalImage from "react-modal-image";
 import Modal from "react-modal";
 
 import "./App.css";
@@ -103,43 +102,37 @@ const App = (props) => {
           <div className="line"></div>
         </div>
 
-
         <div className="video-container">
           <p className="subtitle subtitle-video">Some short videos I've done</p>
           <div className="wrap-video video1">
-            <video
-              className="video"
-              controls
-              autoPlay
-              currentTime={11.3}
-              src={video1}
-            />
+            <video className="video" controls currentTime={11.3} src={video1} />
 
             <div>
-              <p>TÙNG - LUNA</p>
+              <p>Fanmade Music Video (FMV) - LUNA - TÙNG</p>
             </div>
           </div>
 
-          {/* <div className="wrap-video video2">
-            <video
+          <div className="wrap-video video2">
+            <iframe
               className="video"
-              controls
-              autoPlay
-              currentTime={11.3}
-              src={video1}
-            />
-          </div> */}
-        </div>
+              src="https://drive.google.com/file/d/1nPo-_9tUmLjoMtq2uZ1DEW6cHy3CVaWh/preview"
+              allow="fullscreen"
+              width="640"
+              height="480"
+            ></iframe>
 
+            <div>
+              <p>
+                Fanmade Music Video (FMV) - Đố em đi tìm - The Red Team x Khuê
+              </p>
+            </div>
+          </div>
+        </div>
 
         <div className="photos-container">
           <p className="subtitle subtitle2">Welcome to my photos exhibitions</p>
           <section className="gallery-box">
-            <div
-              className="images"
-            // style={{ transform: `scale(${scaleValue})` }}
-            // style={{ transform: `translateY(${translateYValue}px)` }}
-            >
+            <div className="images">
               {images.map((image, index) => {
                 return (
                   <div
