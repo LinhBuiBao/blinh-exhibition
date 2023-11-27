@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/blinh-exhibition/static/css/main.d0d5ef60.css",
-    "main.js": "/blinh-exhibition/static/js/main.ae797698.js",
+    "main.css": "/blinh-exhibition/static/css/main.adfa5f03.css",
+    "main.js": "/blinh-exhibition/static/js/main.23f4f957.js",
     "static/js/787.ff2bb2f4.chunk.js": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js",
-    "static/media/1.mov": "/blinh-exhibition/static/media/1.a42a36d35073babe70fb.mov",
+    "static/media/video1.mp4": "/blinh-exhibition/static/media/video1.3c7381c033b3a8a410c3.mp4",
     "static/media/5705800E-DD2C-4461-B36E-14498F1EC32A-2341-jpg": "/blinh-exhibition/static/media/5705800E-DD2C-4461-B36E-14498F1EC32A-2341-00000298611880D3.8b48544eb158b3aa642d.jpg",
     "static/media/4D648A46-1621-4C0C-9E29-2AB9F62D9503-2222-jpg": "/blinh-exhibition/static/media/4D648A46-1621-4C0C-9E29-2AB9F62D9503-2222-000001396C5CD00E.01459a6a2ac89cf5a163.jpg",
     "static/media/2967CB47-1963-4C43-AB85-5FE85BD88F25-2222-jpg": "/blinh-exhibition/static/media/2967CB47-1963-4C43-AB85-5FE85BD88F25-2222-00000138B0FA2984.272e5f206f51b4b75132.jpg",
+    "static/media/30C38DCB-0DAA-4D5B-9DCE-E94F88038F85-2222-jpg": "/blinh-exhibition/static/media/30C38DCB-0DAA-4D5B-9DCE-E94F88038F85-2222-000001391E23C247.6a335161ae0c75daa53a.jpg",
     "static/media/6B20F140-BCF1-4EE7-ADA6-A9970DA77E0A-508-jpg": "/blinh-exhibition/static/media/6B20F140-BCF1-4EE7-ADA6-A9970DA77E0A-508-0000011440B82EED.fe9b4112842532fa8bda.jpg",
     "static/media/E113821D-5536-4425-A4B3-50E462A1D8B9-508-jpg": "/blinh-exhibition/static/media/E113821D-5536-4425-A4B3-50E462A1D8B9-508-0000011458B0A183.7eec5528f54eeef4b07e.jpg",
     "static/media/E5B8A36B-245C-4723-B074-253E06D28FD6-2222-jpg": "/blinh-exhibition/static/media/E5B8A36B-245C-4723-B074-253E06D28FD6-2222-00000139608A4FCA.d6d7d7727dbf857cadfd.jpg",
     "static/media/CC0F6974-604D-4F5F-B3D7-607A07FB6280-508-jpg": "/blinh-exhibition/static/media/CC0F6974-604D-4F5F-B3D7-607A07FB6280-508-0000011482D8E734.b12f170fa3ec9e33a9e4.jpg",
-    "static/media/66CDA638-C4C6-43AD-ACFD-2C2D2541FF40-508-jpg": "/blinh-exhibition/static/media/66CDA638-C4C6-43AD-ACFD-2C2D2541FF40-508-00000113CF381BFC.65fceedcd50b8b3f78f3.jpg",
     "static/media/11.jpg": "/blinh-exhibition/static/media/11.ddc0300f5df79751767c.jpg",
     "static/media/AAC679A4-0EDA-4A9B-8D3C-C323CFB09CC6-821-jpg": "/blinh-exhibition/static/media/AAC679A4-0EDA-4A9B-8D3C-C323CFB09CC6-821-00000043F20C29C9.b0a886cfcc344093ba96.jpg",
+    "static/media/D8804F72-1133-4932-9EFE-88E3DEACC10A-1908-jpg": "/blinh-exhibition/static/media/D8804F72-1133-4932-9EFE-88E3DEACC10A-1908-000001487F3C99DB.24c2ed5c5ffa0c658d82.jpg",
     "static/media/508CBC60-B948-4FE4-9285-27C9EE10BBFD-5981-jpg": "/blinh-exhibition/static/media/508CBC60-B948-4FE4-9285-27C9EE10BBFD-5981-000000F7F9903BD6.fa4c6ff6898134db1736.jpg",
     "static/media/B65D9908-8EF9-4BB6-B9CF-C3079E0F7F9B-821-jpg": "/blinh-exhibition/static/media/B65D9908-8EF9-4BB6-B9CF-C3079E0F7F9B-821-00000043F81656E2.8e24203fa2cfdcb87677.jpg",
     "static/media/01. background.jpg": "/blinh-exhibition/static/media/01. background.8aecb68613aa29d72e52.jpg",
@@ -27,8 +28,10 @@
     "static/media/2433E3EA-AA82-4670-AA7C-F50494C75BEF-1908-jpg": "/blinh-exhibition/static/media/2433E3EA-AA82-4670-AA7C-F50494C75BEF-1908-0000014840858AE8.1878adf72065cedaba28.jpg",
     "static/media/4DD6C3E6-5001-4F9A-AFFD-4E939EA80F8F-821-jpg": "/blinh-exhibition/static/media/4DD6C3E6-5001-4F9A-AFFD-4E939EA80F8F-821-0000004760349A04.84554f2461fbacf94f19.jpg",
     "static/media/17A2DA1B-6925-41A3-80B4-F34583873A3B-2222-jpg": "/blinh-exhibition/static/media/17A2DA1B-6925-41A3-80B4-F34583873A3B-2222-000001393C393271.4f49ad7b9a4ba7371300.jpg",
+    "static/media/CFF4CD95-038A-411C-B4BA-DEAF35500C01-6437-jpg": "/blinh-exhibition/static/media/CFF4CD95-038A-411C-B4BA-DEAF35500C01-6437-00000237B3FF7836.800ae25afd2cc79ebc2a.jpg",
     "static/media/E0CF9ECF-5EFB-474A-814E-8C4401E2E98F-5981-jpg": "/blinh-exhibition/static/media/E0CF9ECF-5EFB-474A-814E-8C4401E2E98F-5981-000000FA250A88A2.1c9eb76212ac81d6bd87.jpg",
     "static/media/3895797D-126C-44B1-A721-12062737D571-2222-jpg": "/blinh-exhibition/static/media/3895797D-126C-44B1-A721-12062737D571-2222-00000138FE443CB0.09223a6fcdf65a5a5baf.jpg",
+    "static/media/A1760821-48BE-442D-A4DF-A93DE392B780-6437-jpg": "/blinh-exhibition/static/media/A1760821-48BE-442D-A4DF-A93DE392B780-6437-00000237BFB05B16.d6caae955246099f8804.jpg",
     "static/media/88F48CDE-6E77-4BB8-9EB5-53E489348ED5-491-jpg": "/blinh-exhibition/static/media/88F48CDE-6E77-4BB8-9EB5-53E489348ED5-491-000000B1C35FD079.08eeffc5549db229ee77.jpg",
     "static/media/3BE45104-5BD0-444A-88BA-EF3DC54BEFA7-821-jpg": "/blinh-exhibition/static/media/3BE45104-5BD0-444A-88BA-EF3DC54BEFA7-821-000000473DD0FB34.7b0c844fe68815a77aa2.jpg",
     "static/media/7DC39044-9895-4426-B7AC-A2CFE5D5F396-960-jpg": "/blinh-exhibition/static/media/7DC39044-9895-4426-B7AC-A2CFE5D5F396-960-00000081D7CB3343.9eb6fcabb6203bf2b7ce.jpg",
@@ -55,12 +58,12 @@
     "static/media/AE5B392A-8BE9-44B8-8E2E-8D6C83BC5564-960-jpg": "/blinh-exhibition/static/media/AE5B392A-8BE9-44B8-8E2E-8D6C83BC5564-960-00000081D312DD15.db50ed8b9bc811b5a913.jpg",
     "static/media/40A67143-2EEE-474E-9F25-AAF4F46B3345-6437-jpg": "/blinh-exhibition/static/media/40A67143-2EEE-474E-9F25-AAF4F46B3345-6437-00000237C8698E2F.351a5bb59be41e3f0c5e.jpg",
     "index.html": "/blinh-exhibition/index.html",
-    "main.d0d5ef60.css.map": "/blinh-exhibition/static/css/main.d0d5ef60.css.map",
-    "main.ae797698.js.map": "/blinh-exhibition/static/js/main.ae797698.js.map",
+    "main.adfa5f03.css.map": "/blinh-exhibition/static/css/main.adfa5f03.css.map",
+    "main.23f4f957.js.map": "/blinh-exhibition/static/js/main.23f4f957.js.map",
     "787.ff2bb2f4.chunk.js.map": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0d5ef60.css",
-    "static/js/main.ae797698.js"
+    "static/css/main.adfa5f03.css",
+    "static/js/main.23f4f957.js"
   ]
 }
