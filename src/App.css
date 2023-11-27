@@ -75,6 +75,10 @@ body {
   @media screen and (min-width: 1200px) {
     padding: 0 80px;
   }
+
+  @media screen and (min-width: 1920px) {
+    padding: 0 280px;
+  }
 }
 
 .basic-projects {
@@ -356,9 +360,10 @@ body {
 
 .photos-container {
   width: 100%;
+  background-color: whitesmoke;
 
   @media screen and (min-width: 1200px) {
-    width: 85%;
+    width: 97%;
     margin: 50px auto;
     padding: 20px;
   }
@@ -419,6 +424,7 @@ body {
   padding: 0;
   margin: 0;
   border: solid 15px white;
+  overflow: hidden;
 }
 
 .img-exhibition {
@@ -483,7 +489,7 @@ body {
   margin-top: 70px;
 
   @media screen and (min-width: 1200px) {
-    margin-top: 0;
+    margin: 20px 0 40px 0;
   }
 }
 
@@ -672,6 +678,9 @@ a,
 
 .video-container {
   width: 100%%;
+  background-color: whitesmoke;
+  padding: 15px 0;
+  margin: 20px auto;
 
   @media screen and (min-width: 1200px) {
     margin: 50px auto;
@@ -692,7 +701,7 @@ a,
 
   @media screen and (min-width: 1200px) {
     margin-top: 50px;
-    width: 70%; /* Độ dài của đường line */
+    width: 100%; /* Độ dài của đường line */
   }
 }
 
@@ -708,4 +717,8 @@ a,
   @media screen and (min-width: 1200px) {
     width: 600px;
   }
+}
+
+.subtitle-video {
+  margin-bottom: 40px;
 }

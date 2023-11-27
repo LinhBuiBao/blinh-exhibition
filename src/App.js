@@ -4,7 +4,7 @@ import Modal from "react-modal";
 
 import "./App.css";
 
-import video1 from "./assests/videos/1.mov";
+import video1 from "./assests/videos/video1.mp4";
 
 function importAll(r) {
   return r.keys().map(r);
@@ -54,8 +54,6 @@ const App = (props) => {
     };
   }, []);
 
-  console.log("images", images);
-
   function openModal(index) {
     setCurrentIndex(index);
     setIsOpen(true);
@@ -100,14 +98,14 @@ const App = (props) => {
 
       <div className="projects-main">
         <div className="line-container">
-          <h3 className="title">Exhibitions</h3>
+          <h3 className="title fadeInUp">Exhibitions</h3>
 
           <div className="line"></div>
         </div>
 
-        <p className="subtitle">Some short videos I've done</p>
 
         <div className="video-container">
+          <p className="subtitle subtitle-video">Some short videos I've done</p>
           <div className="wrap-video video1">
             <video
               className="video"
@@ -116,9 +114,13 @@ const App = (props) => {
               currentTime={11.3}
               src={video1}
             />
+
+            <div>
+              <p>TÙNG - LUNA</p>
+            </div>
           </div>
 
-          <div className="wrap-video video2">
+          {/* <div className="wrap-video video2">
             <video
               className="video"
               controls
@@ -126,17 +128,17 @@ const App = (props) => {
               currentTime={11.3}
               src={video1}
             />
-          </div>
+          </div> */}
         </div>
 
-        <p className="subtitle subtitle2">Welcome to my photos exhibitions</p>
 
         <div className="photos-container">
+          <p className="subtitle subtitle2">Welcome to my photos exhibitions</p>
           <section className="gallery-box">
             <div
               className="images"
-              // style={{ transform: `scale(${scaleValue})` }}
-              // style={{ transform: `translateY(${translateYValue}px)` }}
+            // style={{ transform: `scale(${scaleValue})` }}
+            // style={{ transform: `translateY(${translateYValue}px)` }}
             >
               {images.map((image, index) => {
                 return (
