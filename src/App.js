@@ -113,7 +113,7 @@ const App = (props) => {
               allow="fullscreen"
             ></iframe>
             <div>
-              <p>Fanmade Music Video (FMV) - LUNA - TÙNG</p>
+              <p>Fanmade Music Video (FMV) - GUMMY BEAR - TÙNG</p>
             </div>
           </div>
 
