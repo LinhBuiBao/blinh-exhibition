@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blinh-exhibition/static/css/main.aedf4d45.css",
-    "main.js": "/blinh-exhibition/static/js/main.d756ab51.js",
+    "main.js": "/blinh-exhibition/static/js/main.6ae304cc.js",
     "static/js/787.ff2bb2f4.chunk.js": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js",
     "static/media/video1.mp4": "/blinh-exhibition/static/media/video1.3c7381c033b3a8a410c3.mp4",
     "static/media/24.jpg": "/blinh-exhibition/static/media/24.8b48544eb158b3aa642d.jpg",
@@ -54,17 +54,16 @@
     "static/media/34.jpg": "/blinh-exhibition/static/media/34.f5f4a3f28b38ab075409.jpg",
     "static/media/29.jpg": "/blinh-exhibition/static/media/29.0ba185446032cd0588fc.jpg",
     "static/media/29(1).jpg": "/blinh-exhibition/static/media/29(1).c03d412884162b4c589f.jpg",
-    "static/media/08.jpg": "/blinh-exhibition/static/media/08.db50ed8b9bc811b5a913.jpg",
     "static/media/28.jpg": "/blinh-exhibition/static/media/28.351a5bb59be41e3f0c5e.jpg",
     "static/media/000.jpeg": "/blinh-exhibition/static/media/000.8a69f92c8591973d1352.jpeg",
     "static/media/0000.jpeg": "/blinh-exhibition/static/media/0000.fddee7cc6523237f5e30.jpeg",
     "index.html": "/blinh-exhibition/index.html",
     "main.aedf4d45.css.map": "/blinh-exhibition/static/css/main.aedf4d45.css.map",
-    "main.d756ab51.js.map": "/blinh-exhibition/static/js/main.d756ab51.js.map",
+    "main.6ae304cc.js.map": "/blinh-exhibition/static/js/main.6ae304cc.js.map",
     "787.ff2bb2f4.chunk.js.map": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aedf4d45.css",
-    "static/js/main.d756ab51.js"
+    "static/js/main.6ae304cc.js"
   ]
 }
