@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/blinh-exhibition/static/css/main.aedf4d45.css",
-    "main.js": "/blinh-exhibition/static/js/main.24bf212e.js",
+    "main.js": "/blinh-exhibition/static/js/main.d756ab51.js",
     "static/js/787.ff2bb2f4.chunk.js": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js",
     "static/media/video1.mp4": "/blinh-exhibition/static/media/video1.3c7381c033b3a8a410c3.mp4",
     "static/media/24.jpg": "/blinh-exhibition/static/media/24.8b48544eb158b3aa642d.jpg",
@@ -15,6 +15,7 @@
     "static/media/02.jpg": "/blinh-exhibition/static/media/02.ddc0300f5df79751767c.jpg",
     "static/media/09.jpg": "/blinh-exhibition/static/media/09.b0a886cfcc344093ba96.jpg",
     "static/media/37.jpg": "/blinh-exhibition/static/media/37.24c2ed5c5ffa0c658d82.jpg",
+    "static/media/61.jpg": "/blinh-exhibition/static/media/61.7cfae71599f24e2d0ee2.jpg",
     "static/media/11.jpg": "/blinh-exhibition/static/media/11.fa4c6ff6898134db1736.jpg",
     "static/media/57.jpg": "/blinh-exhibition/static/media/57.8e24203fa2cfdcb87677.jpg",
     "static/media/12.jpg": "/blinh-exhibition/static/media/12.8aecb68613aa29d72e52.jpg",
@@ -25,6 +26,7 @@
     "static/media/AD627AFD-E1F5-48D9-A848-1C7179E58F67-508-jpg": "/blinh-exhibition/static/media/AD627AFD-E1F5-48D9-A848-1C7179E58F67-508-00000114AB4AA2CA.d14e7fbfecf9c4f5de03.jpg",
     "static/media/07.jpg": "/blinh-exhibition/static/media/07.1ee335f734b185521ca5.jpg",
     "static/media/04.jpg": "/blinh-exhibition/static/media/04.89a826de4e4cdb3d4368.jpg",
+    "static/media/58.jpg": "/blinh-exhibition/static/media/58.a111710d54fb9ca2a0da.jpg",
     "static/media/4DD6C3E6-5001-4F9A-AFFD-4E939EA80F8F-821-jpg": "/blinh-exhibition/static/media/4DD6C3E6-5001-4F9A-AFFD-4E939EA80F8F-821-0000004760349A04.84554f2461fbacf94f19.jpg",
     "static/media/12(1).jpg": "/blinh-exhibition/static/media/12(1).4f49ad7b9a4ba7371300.jpg",
     "static/media/09(1).jpg": "/blinh-exhibition/static/media/09(1).1c9eb76212ac81d6bd87.jpg",
@@ -34,9 +36,12 @@
     "static/media/7DC39044-9895-4426-B7AC-A2CFE5D5F396-960-jpg": "/blinh-exhibition/static/media/7DC39044-9895-4426-B7AC-A2CFE5D5F396-960-00000081D7CB3343.9eb6fcabb6203bf2b7ce.jpg",
     "static/media/27.jpg": "/blinh-exhibition/static/media/27.2fe2e90ef9959ecbcec5.jpg",
     "static/media/B1DCDD62-CB22-44DD-b6794BB-1D5471841525-253-jpg": "/blinh-exhibition/static/media/B1DCDD62-CB22-44DD-b6794BB-1D5471841525-253-0000034F889DA15C.54c5556fc73144e274d6.jpg",
+    "static/media/60.jpg": "/blinh-exhibition/static/media/60.ddf8ccb67fedce4c21ab.jpg",
     "static/media/29(2).jpg": "/blinh-exhibition/static/media/29(2).f95e3990b412413daa2c.jpg",
     "static/media/25.jpg": "/blinh-exhibition/static/media/25.e9b778ff46f3b5255d1a.jpg",
     "static/media/9E9EFBB1-90B3-41C5-A36C-E7C76087FC96-1507-jpg": "/blinh-exhibition/static/media/9E9EFBB1-90B3-41C5-A36C-E7C76087FC96-1507-00000271A9D70781.e64a41e6f377d86827fa.jpg",
+    "static/media/62.jpg": "/blinh-exhibition/static/media/62.3367690037e83b247d6a.jpg",
+    "static/media/59.jpg": "/blinh-exhibition/static/media/59.ec5bd2035f99e58b9c73.jpg",
     "static/media/31.jpg": "/blinh-exhibition/static/media/31.926dd6392c45588a5faf.jpg",
     "static/media/23.jpg": "/blinh-exhibition/static/media/23.284a4e7636c95438589d.jpg",
     "static/media/4ED74E06-61F1-4701-AE54-5E2BFF63540F-611-jpg": "/blinh-exhibition/static/media/4ED74E06-61F1-4701-AE54-5E2BFF63540F-611-000000F033A89A28.d9519dc4c3ba053dca63.jpg",
@@ -55,11 +60,11 @@
     "static/media/0000.jpeg": "/blinh-exhibition/static/media/0000.fddee7cc6523237f5e30.jpeg",
     "index.html": "/blinh-exhibition/index.html",
     "main.aedf4d45.css.map": "/blinh-exhibition/static/css/main.aedf4d45.css.map",
-    "main.24bf212e.js.map": "/blinh-exhibition/static/js/main.24bf212e.js.map",
+    "main.d756ab51.js.map": "/blinh-exhibition/static/js/main.d756ab51.js.map",
     "787.ff2bb2f4.chunk.js.map": "/blinh-exhibition/static/js/787.ff2bb2f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aedf4d45.css",
-    "static/js/main.24bf212e.js"
+    "static/js/main.d756ab51.js"
   ]
 }
