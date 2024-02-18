@@ -3,8 +3,6 @@ import Modal from "react-modal";
 
 import "./App.css";
 
-import video1 from "./assests/videos/video1.mp4";
-
 function importAll(r) {
   return r.keys().map(r);
 }
@@ -24,8 +22,6 @@ const customStyles = {
   },
 };
 
-// Modal.setAppElement('#yourAppElement');
-
 const App = (props) => {
   const { theme } = props;
   const [isLoading, setIsLoading] = useState(true);
@@ -39,7 +35,7 @@ const App = (props) => {
     }, 2700);
 
     return () => clearTimeout(timer);
-  }, []); // Chạy chỉ một lần sau khi component được mount
+  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
