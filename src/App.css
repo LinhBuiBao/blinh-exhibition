@@ -1,5 +1,6 @@
-@import url("https://fonts.googleapis.com/css?family=Playfair+Display");
+@import url("https://fonts.googleapis.com/css?family=11+Display");
 @import url("https://fonts.googleapis.com/css?family=PT+Sans:400,700");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Pinyon+Script&display=swap");
 
 body {
   background-color: hsl(240 3% 98%);
@@ -115,6 +116,7 @@ body {
   margin: 40px auto;
   box-shadow: -3px -3px 12px #999;
 }
+
 .border-frame-exhibition {
   position: relative;
   padding: 0;
@@ -172,9 +174,10 @@ body {
 }
 
 .blinh {
-  font-size: 50px;
-  font-weight: 600;
-  font-family: cursive;
+  font-size: 100px;
+  font-family: "Pinyon Script", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .hero-content {
@@ -399,7 +402,26 @@ a,
   }
 }
 
+@media screen and (min-width: 820px) {
+  .photos-container {
+    padding: 20px 35px;
+  }
+
+  .images {
+    columns: 3;
+    column-gap: 25px;
+  }
+
+  .gallery-box {
+    margin-top: 20px;
+  }
+}
+
 @media screen and (min-width: 1200px) {
+  .gallery-box {
+    margin-top: 0;
+  }
+
   .projects-main {
     padding: 0 80px;
   }
